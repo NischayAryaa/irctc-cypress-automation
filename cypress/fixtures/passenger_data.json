@@ -1,17 +1,17 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAIN_NO": "12925",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "25/10/2024",
+  "SOURCE_STATION": "MMCT",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "DESTINATION_STATION": "CDG",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "nischay7250@oksbi",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Tushar Singh",
+      "AGE": 21,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
